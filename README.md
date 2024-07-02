@@ -1,10 +1,10 @@
 # Thamilselvam Sajan
 
-![Header](https://yourimageurl.com/header_image.jpg) <!-- Replace with your header image URL -->
+![Header](https://yourimageurl.com/header_image.gif) <!-- Replace with your header GIF URL -->
 
 ## 👋 Hello!
 
-I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate specializing in Mechatronics at the University of Peradeniya. I'm passionate about **biomedical engineering**, particularly in medical robotics and biomedical devices.
+I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate specializing in Mechatronics at the University of Peradeniya. As a passionate mechatronics student, I thrive on exploring the integration of mechanical systems with electronics and control systems. Recently, I've developed a keen interest in **medical robotics** and **biomedical devices**, eager to delve deeper into these fields and contribute to innovative healthcare solutions.
 
 ![Profile GIF](https://yourgifurl.com/profile_gif.gif) <!-- Replace with your profile GIF URL -->
 
@@ -30,11 +30,11 @@ I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate sp
 - Classical control engineering
 
 ### Soft Skills
-- Problem-solving
-- Planning
-- Teamwork
-- Adaptability
-- Attention to detail
+![Problem-solving](https://img.shields.io/badge/Problem--solving-brightgreen?style=for-the-badge)
+![Planning](https://img.shields.io/badge/Planning-brightgreen?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-brightgreen?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-brightgreen?style=for-the-badge)
+![Attention to detail](https://img.shields.io/badge/Attention_to_detail-brightgreen?style=for-the-badge)
 
 ## 🛠️ Projects
 
@@ -43,9 +43,13 @@ I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate sp
 - **Design:** Created a cost-effective table cooler with a lamp using SolidWorks and Blender.
 - **Principles:** Incorporated ergonomic and sustainable design principles.
 
+![Table Cooler with Lamp Design GIF](https://yourgifurl.com/table_cooler_gif.gif) <!-- Replace with your project GIF URL -->
+
 ### Map Navigation Using C Programming
 - **Implementation:** Developed a program to find the minimum distance path on a map.
 - **Techniques:** Utilized global arrays and functions for pathfinding.
+
+![Map Navigation GIF](https://yourgifurl.com/map_navigation_gif.gif) <!-- Replace with your project GIF URL -->
 
 ## 🌐 Connect with Me
 
