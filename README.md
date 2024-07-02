@@ -4,7 +4,7 @@
 
 ## 👋 Hello!
 
-I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate specializing in Mechatronics at the University of Peradeniya. As a passionate mechatronics student, I thrive on exploring the integration of mechanical systems with electronics and control systems. Recently, I've developed a keen interest in **medical robotics** and **biomedical devices**, eager to delve deeper into these fields and contribute to innovative healthcare solutions.
+I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate specializing in Mechatronics at the University of Peradeniya. As a passionate mechatronics student, I thrive on exploring the integration of mechanical systems with electronics and control systems. Recently, I've built a keen interest in **medical robotics** and **biomedical devices**, eager to delve deeper into these fields and contribute to innovative healthcare solutions.
 
 ![Profile GIF](https://yourgifurl.com/profile_gif.gif) <!-- Replace with your profile GIF URL -->
 
