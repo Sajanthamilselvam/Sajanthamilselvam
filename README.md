@@ -25,9 +25,11 @@ Passionate and driven final-year undergraduate in Mechatronics Engineering with 
 - Circuit design
 - HDL
 - Simulators for processors
+- Combinational and sequential circuits
 
 ### Control Systems
 - Classical control engineering
+- Advance control Engineering
 
 ### Soft Skills
 ![Problem-solving](https://img.shields.io/badge/Problem--solving-brightgreen?style=for-the-badge)
