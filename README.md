@@ -2,9 +2,9 @@
 
 ![Header](https://yourimageurl.com/header_image.gif) <!-- Replace with your header GIF URL -->
 
-## 👋 Hello!
+## 👋 Hello Everyone!
 
-I'm **Thamilselvam Sajan**, a third-year Mechanical Engineering undergraduate specializing in Mechatronics at the University of Peradeniya. As a passionate mechatronics student, I thrive on exploring the integration of mechanical systems with electronics and control systems. Recently, I've built a keen interest in **medical robotics** and **biomedical devices**, eager to delve deeper into these fields and contribute to innovative healthcare solutions.
+Passionate and driven final-year undergraduate in Mechatronics Engineering with a strong foundation in mechanical systems, electronics, and automation. With hands-on experience from multidisciplinary industrial training in water treatment and mechanical installations, I am eager to contribute to innovative engineering solutions. Seeking opportunities to gain practical experience in Control engineering, embedded systems, automation engineering, or electronic product development within a collaborative, forward-thinking environment.
 
 ![Profile GIF](https://yourgifurl.com/profile_gif.gif) <!-- Replace with your profile GIF URL -->
 
